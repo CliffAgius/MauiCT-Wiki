@@ -6,4 +6,4 @@ The section on the right will help you navigate and answer all the questions you
 Every single contribution of yours will improve and strengthen the performance of the toolkit. Let's jump into the ride 🎢
 
 ## Feedback and Requests
-Please use [GitHub Issues](/issues) for bug reports and feature requests. For general questions and support, please use [Stack Overflow](https://stackoverflow.com/questions/tagged/maui-community-toolkit) where questions should be tagged with the tag `maui-community-toolkit`. You can also chat with community members about the project in our [Community Discord](https://aka.ms/dotnet-discord) channel, which is `xamarin-community-toolkit` for now.
+Please use [GitHub Issues](https://github.com/CommunityToolkit/Maui/issues) for bug reports and feature requests. For general questions and support, please use [Stack Overflow](https://stackoverflow.com/questions/tagged/maui-community-toolkit) where questions should be tagged with the tag `maui-community-toolkit`. You can also chat with community members about the project in our [Community Discord](https://aka.ms/dotnet-discord) channel, which is `xamarin-community-toolkit` for now.
