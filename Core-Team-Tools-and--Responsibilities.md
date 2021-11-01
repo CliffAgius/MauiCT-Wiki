@@ -1,4 +1,4 @@
-## .NET MAUI Community Toolkit Core Team Responsibilities
+## .NET MAUI Community Toolkit Core Team Tools + Responsibilities
 
 This article covers the responsibilities and expectations for each core maintainer of the .NET MAUI Community Toolkit. 
 
@@ -10,6 +10,8 @@ At the end of each one-year term, each core maintainer may extend their commitme
 
 ### Responsibilities 
 
+#### Team Member
+
 Each member of the core team agrees agrees to the following responsibilities:
 - Attend, participate and contribute to the [monthly standup](https://www.youtube.com/watch?v=0ZBh2Hl54ZY)
   - Streamed live on the [.NET Foundation YouTube channel](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)
@@ -20,8 +22,19 @@ Each member of the core team agrees agrees to the following responsibilities:
 - Contribute a minimum of 1 activity per week
   - Activities include, but are not limited to, submitting a pull request, reviewing a pull request, triaging an issue, responding to discussions, championing a proposal, etc
 
+### Team Lead
+
+The Team Leader of the core team agrees agrees to the following responsibilities:
+- Ensure [Discussions](https://github.com/CommunityToolkit/Maui/discussions) responses are timely
+- Ensure Issues are triaged
+- Ensure New Feature Proposals are added to the [Project Board](https://github.com/CommunityToolkit/Maui/projects/1) 
+- Ensure New Feature Proposals are up-to-date, adhering to the [New Feature Workflow](https://github.com/CommunityToolkit/Maui#submitting-a-new-feature)
+- Ensure Team Members have access to the Core Maintainer Tools
+
 ### Core Maintainer Tools
 - [Community Toolkit Azure DevOps](https://dev.azure.com/dotnet/CommunityToolkit)
-- Core Maintainer Alumni Discord Group
-- Active Core Maintainer Discord Group
+- Alumni Core Maintainers' Discord Group
+- Active Core Maintainers' Discord Group
 - [CommunityToolkit NuGet Organization](https://www.nuget.org/profiles/Microsoft.Toolkit)
+- [Community Toolkit GitHub Organization]()
+- [Community Toolkit Maui Team](https://github.com/orgs/CommunityToolkit/teams/maui/members)
