@@ -30,6 +30,7 @@ The Team Leader of the core team agrees agrees to the following responsibilities
 - Ensure New Feature Proposals are added to the [Project Board](https://github.com/CommunityToolkit/Maui/projects/1) 
 - Ensure New Feature Proposals are up-to-date, adhering to the [New Feature Workflow](https://github.com/CommunityToolkit/Maui#submitting-a-new-feature)
 - Ensure Team Members have access to the Core Maintainer Tools
+- Set agenda for Monthly Standups
 
 ### Core Maintainer Tools
 - [Community Toolkit Azure DevOps](https://dev.azure.com/dotnet/CommunityToolkit)
