@@ -38,3 +38,4 @@ The Team Leader of the core team agrees agrees to the following responsibilities
 - [CommunityToolkit NuGet Organization](https://www.nuget.org/profiles/Microsoft.Toolkit)
 - [Community Toolkit GitHub Organization]()
 - [Community Toolkit Maui Team](https://github.com/orgs/CommunityToolkit/teams/maui/members)
+- .NET Foundation [StreamYard](https://streamyard.com) Access
