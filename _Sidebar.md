@@ -12,5 +12,6 @@
 * [[Core Team Tools and Responsibilities]]
 
 ## Development/Testing
+* [[Coding Style and Conventions]] ⚖
 
 ## Project Structure
