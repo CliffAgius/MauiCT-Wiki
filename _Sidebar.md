@@ -8,6 +8,7 @@
 * [[Preview-Packages]] 🌙
 
 ## Contribution
+* [[Submitting a New Feature]] 📫
 * [[Core Team Tools and Responsibilities]]
 
 ## Development/Testing
