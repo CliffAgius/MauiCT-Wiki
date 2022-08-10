@@ -1,0 +1,1 @@
+Please read the [Getting Started](https://docs.microsoft.com/dotnet/communitytoolkit/maui/get-started) page for more detailed information about using the toolkit.
