@@ -4,7 +4,7 @@
 * [[Home]] 🏠 
 
 ## Usage
-
+* [[Getting Started]] 🙌
 * [[Preview-Packages]] 🌙
 
 ## Contribution
