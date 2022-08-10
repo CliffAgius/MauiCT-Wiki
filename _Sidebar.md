@@ -7,6 +7,7 @@
 * [[Preview-Packages]] 🌙
 
 ## Contribution
+* [[Core Team Tools and Responsibilities]]
 
 ## Development/Testing
 
