@@ -15,3 +15,6 @@
 * [[Coding Style and Conventions]] ⚖
 
 ## Project Structure
+
+## Monthly Standups
+* [[Monthly Standups]]
