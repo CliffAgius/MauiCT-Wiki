@@ -13,10 +13,10 @@ Monthly Standup Live Stream: https://www.youtube.com/watch?v=N2OZzLNSD_4
     - Proposals
     - Issues
       - (Vlad) Expander inside `ScrollView` broken on iOS https://github.com/CommunityToolkit/Maui/issues/816
-      - (Pedro) `.UseMauiCommunityToolit()` Analyzer https://github.com/CommunityToolkit/Maui/issues/501
+      - (Pedro) `.UseMauiCommunityToolkit()` Analyzer https://github.com/CommunityToolkit/Maui/issues/501
       - (Pedro) TouchEffect https://github.com/CommunityToolkit/Maui/issues/86
     - PRs
-      - (Vlad) Close `needs production` Issues after 5 Days https://github.com/CommunityToolkit/Maui/pull/826
+      - (Vlad) Close `needs reproduction` Issues after 5 Days https://github.com/CommunityToolkit/Maui/pull/826
       - (Vlad/Brandon) Dialogs https://github.com/CommunityToolkit/Maui/pull/699
     - Discussions
       - (Pedro) Disposing Controls https://github.com/CommunityToolkit/Maui/discussions/873
