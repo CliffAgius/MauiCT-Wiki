@@ -4,7 +4,7 @@ We hope you are able to join us! Please chat with us in the comments to share yo
 
 ## January 2023
 
-https://www.youtube.com/watch?v=N2OZzLNSD_4
+Monthly Standup Live Stream: https://www.youtube.com/watch?v=N2OZzLNSD_4
 
 - (Gerald) Welcome / Intro
 - MCT
