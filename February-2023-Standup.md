@@ -28,7 +28,7 @@
     - (Pedro) Be less aggressive disposing controls https://github.com/CommunityToolkit/Maui/discussions/873
 - MCT Markup
   - Proposals
-    - (None)
+    - (Included in Announcements)
   - Issues
     - (None)
   - PRs
