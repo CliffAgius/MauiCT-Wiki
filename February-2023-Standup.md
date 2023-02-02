@@ -1,4 +1,8 @@
-Monthly Standup Live Stream: https://www.youtube.com/watch?v=jzk8uqBB9zo
+## Monthly Standup Live Stream
+
+[![Community Toolkit Standup](https://user-images.githubusercontent.com/13558917/216424298-34e4f723-f8b1-4da1-89fe-fe2edb1ab626.png)](https://www.youtube.com/watch?v=jzk8uqBB9zo)
+
+## Agenda
 
 - (Gerald) Welcome / Intro
 - Announcements
