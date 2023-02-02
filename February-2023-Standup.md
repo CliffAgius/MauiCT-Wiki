@@ -28,7 +28,7 @@
     - (Pedro) Be less aggressive disposing controls https://github.com/CommunityToolkit/Maui/discussions/873
 - MCT Markup
   - Proposals
-    - (Included in Announcements)
+    - (Shaun) TypedBinding support to provide IValueConverter https://github.com/CommunityToolkit/Maui.Markup/issues/179
   - Issues
     - (None)
   - PRs
