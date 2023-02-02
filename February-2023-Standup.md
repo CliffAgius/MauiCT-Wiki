@@ -23,7 +23,7 @@
     - (Brandon/Gerald) MediaElement ShouldMute https://github.com/CommunityToolkit/Maui/pull/953
   - Discussions
     - (Vlad) Support for simultaneous Toast notifications https://github.com/CommunityToolkit/Maui/discussions/939
-    - (???) Cross-platform mechanism for setting the mouse cursor  https://github.com/CommunityToolkit/Maui/discussions/938
+    - (Shaun) Cross-platform mechanism for setting the mouse cursor  https://github.com/CommunityToolkit/Maui/discussions/938
     - (Shaun) PopupService https://github.com/CommunityToolkit/Maui/discussions/933
     - (Pedro) Be less aggressive disposing controls https://github.com/CommunityToolkit/Maui/discussions/873
 - MCT Markup
