@@ -4,8 +4,6 @@ We hope you are able to join us! Please chat with us in the comments to share yo
 
 Subscribe to the [.NET Foundation YouTube Channel](https://www.youtube.com/c/NETFoundation) to never miss a standup.
 
-## Meetings
-
 ### 2023
 
 * [2023 January](https://github.com/CommunityToolkit/Maui/wiki/January-2023-Standup)
