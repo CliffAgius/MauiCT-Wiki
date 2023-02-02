@@ -1,7 +1,7 @@
-## January 2023 Standup
+## Live Stream
+[![YouTube Link Image](https://user-images.githubusercontent.com/13558917/216424943-0b0bf430-84c6-4ac1-ac5d-7c4918e01239.png)](https://www.youtube.com/watch?v=N2OZzLNSD_4)
 
-Monthly Standup Live Stream: https://www.youtube.com/watch?v=N2OZzLNSD_4
-
+## Agenda
 - (Gerald) Welcome / Intro
 - MCT
     - Announcements
