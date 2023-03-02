@@ -36,3 +36,6 @@
   - Discussions
 - Community Q+A
   - We'll also read + answer questions in the comments during the live stream when not speaking / presenting!
+
+## Recording
+If you want to catch the recording, you can do so [here on YouTube](https://www.youtube.com/watch?v=jzk8uqBB9zo)
