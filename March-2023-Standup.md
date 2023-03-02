@@ -20,6 +20,7 @@
     - (Vlad/Shaun) PR NuGet Versioning https://github.com/CommunityToolkit/Maui/pull/910
   - Discussions
     - (Pedro) Shell Routing Attributes https://github.com/CommunityToolkit/Maui/discussions/1004
+    - (Pedro) We should be less aggressive on disposing our controls https://github.com/CommunityToolkit/Maui/discussions/873
 - MCT Markup
   - Proposals
     - (Brandon) Add TypedBindings to GesturesExtensions https://github.com/CommunityToolkit/Maui.Markup/issues/191
