@@ -6,9 +6,9 @@
 
 - (Gerald) Welcome / Intro
 - Announcements
-  - (Gerald/Vlad) CommunityToolkit.Maui v5.0.0
-  - (Gerald) CommunityToolkit.Maui.MediaElement v1.0.2
-  - (Brandon) CommunityToolkit.Maui.Markup v3.1.0
+  - (Gerald/Vlad) CommunityToolkit.Maui v5.0.0: https://github.com/CommunityToolkit/Maui/releases/tag/5.0.0
+  - (Gerald) CommunityToolkit.Maui.MediaElement v1.0.2: https://github.com/CommunityToolkit/Maui/releases/tag/1.0.2-mediaelement
+  - (Brandon) CommunityToolkit.Maui.Markup v3.1.0: https://github.com/CommunityToolkit/Maui.Markup/releases/tag/3.1.0
   - (Pedro) Retiring from Core Maintainer team (and looking for new Core Maintainers!)
 - MCT
   - Proposals
