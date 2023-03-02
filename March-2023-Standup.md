@@ -15,6 +15,7 @@
     - (Pedro) Add Keyboard Manager https://github.com/CommunityToolkit/Maui/issues/1055
     - (Brandon/Pedro) CameraView https://github.com/CommunityToolkit/Maui/issues/259
     - (Brandon/Pedro) TouchEffect https://github.com/CommunityToolkit/Maui/issues/86
+    - (Shaun) PopupService https://github.com/CommunityToolkit/Maui/issues/981
   - PRs
     - (Vlad) Windows Maps https://github.com/CommunityToolkit/Maui/pull/604
     - (Vlad/Shaun) PR NuGet Versioning https://github.com/CommunityToolkit/Maui/pull/910
