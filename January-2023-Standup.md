@@ -31,3 +31,6 @@
       - (Brandon) Fluent API Support https://github.com/CommunityToolkit/Maui.Markup/discussions/169
 - Community Q+A
     - Please also read + answer questions in the comments during the live stream if you’re not speaking / presenting
+
+## Recroding
+Catch the recording [here on YouTube](https://www.youtube.com/watch?v=N2OZzLNSD_4)
