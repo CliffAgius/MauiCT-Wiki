@@ -13,7 +13,6 @@
 - MCT
   - Proposals
     - (Pedro) Add Keyboard Manager https://github.com/CommunityToolkit/Maui/issues/1055
-    - (Vlad) NuGet Package Validation https://github.com/CommunityToolkit/Maui/issues/520
     - (Brandon/Pedro) CameraView https://github.com/CommunityToolkit/Maui/issues/259
     - (Brandon/Pedro) TouchEffect https://github.com/CommunityToolkit/Maui/issues/86
   - PRs
