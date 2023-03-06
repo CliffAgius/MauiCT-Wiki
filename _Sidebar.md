@@ -10,6 +10,7 @@
 ## Contribution
 * [[Submitting a New Feature]] 📫
 * [[Core Team Tools and Responsibilities]]
+* [[MCT architecture]]
 
 ## Development/Testing
 * [[Coding Style and Conventions]] ⚖
