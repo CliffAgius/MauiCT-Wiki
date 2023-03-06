@@ -49,7 +49,7 @@ On the `Controls` project we implement also some concepts that also just exist i
 In the snippet below you can see an example of an implementation of the `IButton` interface defined on `Core`.
 
 ```csharp
-public Button : View, IButton
+public class Button : View, IButton
 {
 	public static readonly BindableProperty ClickCommandProperty = 
 		BindableProperty.Create(nameof(ClickCommand), typeof(ICommand), typeof(Button));
