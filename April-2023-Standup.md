@@ -6,7 +6,7 @@
 
 - (Gerald) Welcome / Intro
 - Announcements
-  - (Jay) Tizen Announcements
+  - (Jay) [Tizen Announcements](https://github.com/JoonghyunCho/CommunityToolkit.Maui/wiki/One-Bite-of-Tizen%2C-April-2023-Standup)
 - MCT
   - Proposals
     - (None)
