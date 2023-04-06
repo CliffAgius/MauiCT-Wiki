@@ -6,19 +6,20 @@
 
 - (Gerald) Welcome / Intro
 - Announcements
-  - TBD
+  - (Jay) Tizen Announcements
 - MCT
   - Proposals
-    - TBD
+    - (None)
   - PRs
-    - TBD
+    - (Kym) LazyView
+    - (Vlad) Popup v6 Windows https://github.com/CommunityToolkit/Maui/pull/1086/files
   - Discussions
-    - TBD
+    - (???) Generic Library https://github.com/CommunityToolkit/Maui/discussions/1088
 - MCT Markup
   - Proposals
-    - TBD
+    - (Brandon) `RelativeBindingSource` Support for Typed Bindings https://github.com/CommunityToolkit/Maui.Markup/issues/200
   - PRs
-    - TBD
+    - (None)
   - Discussions
     - TBD
 - Community Q+A
