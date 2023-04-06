@@ -14,7 +14,7 @@
     - (Kym) LazyView
     - (Vlad) Popup v6 Windows https://github.com/CommunityToolkit/Maui/pull/1086/files
   - Discussions
-    - (???) Generic Library https://github.com/CommunityToolkit/Maui/discussions/1088
+    - (Vlad) Generic Library https://github.com/CommunityToolkit/Maui/discussions/1088
 - MCT Markup
   - Proposals
     - (Brandon) `RelativeBindingSource` Support for Typed Bindings https://github.com/CommunityToolkit/Maui.Markup/issues/200
