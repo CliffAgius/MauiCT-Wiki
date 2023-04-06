@@ -14,6 +14,7 @@
     - (Kym) LazyView https://github.com/CommunityToolkit/Maui/pull/1102
     - (Vlad) Popup v6 Windows https://github.com/CommunityToolkit/Maui/pull/1086
   - Discussions
+    - (Gerald) Add Fullscreen Support to MediaElement https://github.com/CommunityToolkit/Maui/discussions/929
     - (Vlad) Generic Library https://github.com/CommunityToolkit/Maui/discussions/1088
 - MCT Markup
   - Proposals
