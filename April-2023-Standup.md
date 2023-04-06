@@ -11,8 +11,8 @@
   - Proposals
     - (None)
   - PRs
-    - (Kym) LazyView
-    - (Vlad) Popup v6 Windows https://github.com/CommunityToolkit/Maui/pull/1086/files
+    - (Kym) LazyView https://github.com/CommunityToolkit/Maui/pull/1102
+    - (Vlad) Popup v6 Windows https://github.com/CommunityToolkit/Maui/pull/1086
   - Discussions
     - (Vlad) Generic Library https://github.com/CommunityToolkit/Maui/discussions/1088
 - MCT Markup
