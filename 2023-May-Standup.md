@@ -16,7 +16,7 @@
     - (None)
   - Discussions
     - (Shaun) Popup Service: https://github.com/CommunityToolkit/Maui/discussions/933
-    - (?) Cross-Platform Mechanism for Mouse Cursor: https://github.com/CommunityToolkit/Maui/discussions/938
+    - (Gerald) Cross-Platform Mechanism for Mouse Cursor: https://github.com/CommunityToolkit/Maui/discussions/938
 - MCT Markup
   - Proposals
     - (Brandon / Gerald) [`RelativeBindingSource` Support for Typed Bindings](https://github.com/CommunityToolkit/Maui.Markup/issues/200)
