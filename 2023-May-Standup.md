@@ -7,6 +7,7 @@
 - (Gerald) Welcome / Intro
 - Announcements
   - (Gerald) [Xamarin.CommunityToolkit v2.0.6](https://github.com/xamarin/XamarinCommunityToolkit/releases/tag/2.0.6)
+  - (Gerald) [CommunityToolkit.Maui v5.1.0](https://github.com/CommunityToolkit/Maui/releases/tag/5.1.0)
   - (Jay) Tizen Announcements
 - MCT
   - Proposals
