@@ -8,7 +8,7 @@
 - Announcements
   - (Gerald) [Xamarin.CommunityToolkit v2.0.6](https://github.com/xamarin/XamarinCommunityToolkit/releases/tag/2.0.6)
   - (Gerald) [CommunityToolkit.Maui v5.1.0](https://github.com/CommunityToolkit/Maui/releases/tag/5.1.0)
-  - (Jay) Tizen Announcements
+  - (Jay) [Tizen Announcements](https://github.com/JoonghyunCho/CommunityToolkit.Maui/wiki/One-Bite-of-Tizen,-May-2023-Standup)
 - MCT
   - Proposals
     - (Brandon / Gerald) [Full Screen Controls for MediaElement](https://github.com/CommunityToolkit/Maui/issues/1172)
