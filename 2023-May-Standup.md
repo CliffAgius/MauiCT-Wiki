@@ -13,8 +13,7 @@
   - Proposals
     - (Brandon / Gerald) [Full Screen Controls for MediaElement](https://github.com/CommunityToolkit/Maui/issues/1172)
   - PRs
-    - (Kym) LazyView https://github.com/CommunityToolkit/Maui/pull/1102
-    - (Vlad) Popup v6 Windows https://github.com/CommunityToolkit/Maui/pull/1086
+    - (None)
   - Discussions
     - (Shaun) Popup Service: https://github.com/CommunityToolkit/Maui/discussions/933
     - (???) Cross-Platform Mechanism for Mouse Cursor: https://github.com/CommunityToolkit/Maui/discussions/938
