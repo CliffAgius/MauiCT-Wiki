@@ -10,7 +10,7 @@
   - (Brandon) [CommunityToolkit.Maui v5.2.0](https://github.com/CommunityToolkit/Maui/releases/tag/5.2.0)
   - (Brandon) [CommunutyToolkit.Maui.MediaElement v2.0.0](https://github.com/CommunityToolkit/Maui/releases/tag/2.0.0-mediaelement)
   - (Brandon) [CommunityToolkit.Maui.Markup v3.2.0](https://github.com/CommunityToolkit/Maui.Markup/releases/tag/3.2.0)
-  - (Vlad) Tizen Announcements
+  - (Vlad) Tizen Announcements (https://developer.samsung.com/remote-test-lab)
   - (Brandon) Lead discussion around hosting a public election for new Core Maintainers, similar to the [StackOverflow Community Moderator Elections](https://stackoverflow.com/election)
     - Core Maintainer Team holds yearly elections in August
     - Developers self-nominate by July
