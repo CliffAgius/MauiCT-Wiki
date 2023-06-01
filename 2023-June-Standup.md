@@ -5,10 +5,10 @@
 
 ## Agenda
 
-- (Gerald) Welcome / Intro
+- (Brandon) Welcome / Intro
 - Announcements
-  - (Gerald) [CommunityToolkit.Maui v5.2.0](https://github.com/CommunityToolkit/Maui/releases/tag/5.2.0)
-  - (Gerald) [CommunutyToolkit.Maui.MediaElement v2.0.0](https://github.com/CommunityToolkit/Maui/releases/tag/2.0.0-mediaelement)
+  - (Brandon) [CommunityToolkit.Maui v5.2.0](https://github.com/CommunityToolkit/Maui/releases/tag/5.2.0)
+  - (Brandon) [CommunutyToolkit.Maui.MediaElement v2.0.0](https://github.com/CommunityToolkit/Maui/releases/tag/2.0.0-mediaelement)
   - (Brandon) [CommunityToolkit.Maui.Markup v3.2.0](https://github.com/CommunityToolkit/Maui.Markup/releases/tag/3.2.0)
   - (Vlad) Tizen Announcements
   - (Brandon) Lead discussion around hosting a public election for new Core Maintainers, similar to the [StackOverflow Community Moderator Elections](https://stackoverflow.com/election)
