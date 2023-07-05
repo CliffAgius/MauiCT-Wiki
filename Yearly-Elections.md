@@ -38,6 +38,8 @@ Voting is simple! [Upvote the nomination](https://docs.github.com/en/discussions
 
 To vote for a candidate, read through the nominations, below, and [Upvote the nomination comment](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion#upvoting-a-comment) for the candidate whom you'd like to join the team.
 
+You are allows to vote (upvote) as many nominees as you wish.
+
 At the end of the 2023 election, the nominations with the top three (3) total votes will join the team.
 
 We ask the community to avoid abusing the voting system by creating new GitHub accounts to vote additional times for a preferred candidate. We reserve the right to ban users from the Community Toolkit organization whom we suspect of creating multiple accounts to vote for a specific candidate in the yearly elections.
