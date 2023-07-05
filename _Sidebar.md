@@ -9,7 +9,7 @@
 
 ## Contribution
 * [[Submitting a New Feature]] 📫
-* [[Core Team Tools and Responsibilities]]
+
 * [[MCT architecture]]
 
 ## Development/Testing
@@ -17,3 +17,7 @@
 
 ## Monthly Standups
 * [[Monthly Standups]]
+
+## Core Maintainers
+* [[Core Team Tools and Responsibilities]]
+* [[2023 Core Maintainer Elections]]
