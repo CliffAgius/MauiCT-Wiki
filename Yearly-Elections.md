@@ -19,7 +19,7 @@ Candidates' self-nomination should include, but is not limited to, the following
 - Proficiency in English + Other languages 
   - The .NET MAUI Community Toolkit conducts all Issues, Pull Requests, Discussions, Standups, etc in English
   - A multi-lingual core maintainers is a HUGE bonus given the vast diversity of our community
-    - Our current team covers Dutch, Portuguese, Spanish, Ukrainian and Korean
+    - Current + previous maintainers have been fluent in Dutch, Portuguese, Spanish, Ukrainian, Korean and Russian
 
 And similar to the [StackOverflow Moderator Elections](https://stackoverflow.com/election/14 ), we seek core core maintainers who exemplify the following traits:
 
