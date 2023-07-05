@@ -4,6 +4,8 @@ On the Community Toolkit team, we strongly believe that core maintainers should 
 
 We hold yearly elections each year in July, finalizing the election results at the [August Monthly Standup](https://github.com/CommunityToolkit/Maui/wiki/Monthly-Standups).
 
+## Nominations
+
 Candidates should first read through our [Core Team Responsibilities](https://github.com/CommunityToolkit/Maui/wiki/Core-Team-Tools-and-Responsibilities#responsibilities) to ensure you are able to commit to the team for a minimum of one (1) year, are able to attend our monthly standup, and are able to contribute a minimum of one activity per week. 
 
 To nominate yourself, write a top-level comment below in this Discussion introducing yourself to the community and highlighting why you'd make the best core maintainer!
@@ -29,6 +31,16 @@ And similar to the [StackOverflow Moderator Elections](https://stackoverflow.com
 - Open to some light but firm moderation to keep the community on track, and resolve uncommon disputes and exceptions
 
 The nominees who receive the most upvotes will join the .NET MAUI Community Toolkit Core Maintainer Team.
+
+## Voting 
+
+Voting is simple! [Upvote the nomination](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion#upvoting-a-comment) for each Core Maintainer whom you wish to join the team. 
+
+To vote for a candidate, read through the nominations, below, and [Upvote the nomination comment](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion#upvoting-a-comment) for the candidate whom you'd like to join the team.
+
+At the end of the 2023 election, the nominations with the top three (3) total votes will join the team.
+
+We ask the community to avoid abusing the voting system by creating new GitHub accounts to vote additional times for a preferred candidate. We reserve the right to ban users from the Community Toolkit organization whom we suspect of creating multiple accounts to vote for a specific candidate in the yearly elections.
 
 ## Election Results
 
