@@ -20,4 +20,4 @@
 
 ## Core Maintainers
 * [[Core Team Tools and Responsibilities]]
-* [[2023 Core Maintainer Elections]]
+* [[Yearly Elections]]
