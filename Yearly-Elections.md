@@ -40,8 +40,6 @@ To vote for a candidate, read through the nominations, below, and [Upvote the no
 
 You are allows to vote (upvote) as many nominees as you wish.
 
-At the end of the 2023 election, the nominations with the top three (3) total votes will join the team.
-
 We ask the community to avoid abusing the voting system by creating new GitHub accounts to vote additional times for a preferred candidate. We reserve the right to ban users from the Community Toolkit organization whom we suspect of creating multiple accounts to vote for a specific candidate in the yearly elections.
 
 ## Election Results
