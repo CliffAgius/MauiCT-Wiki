@@ -1,5 +1,3 @@
-# Core Maintainer Elections
-
 On the Community Toolkit team, we strongly believe that core maintainers should come from the community and be elected by the community. 
 
 We hold yearly elections each year in July, finalizing the election results at the [August Monthly Standup](https://github.com/CommunityToolkit/Maui/wiki/Monthly-Standups).
