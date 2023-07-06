@@ -5,7 +5,7 @@
 
 ## Agenda
 
-- (Brandon) Welcome / Intro
+- (Gerald) Welcome / Intro
 - Announcements
 - CommunityToolkit.Maui
   - Proposals
