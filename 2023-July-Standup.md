@@ -16,6 +16,5 @@
   - PRs
     - (None)
   - Discussions
-https://github.com/CommunityToolkit/Maui.Markup/discussions/64
 - Community Q+A
   - We'll also read + answer questions in the comments during the live stream when not speaking / presenting!
