@@ -18,6 +18,7 @@
     - (Vlad) Snackbar and Toast messages are omitted when length is equal to display width on iOS https://github.com/CommunityToolkit/Maui/pull/1281
     - (Vlad) Add Analyzers https://github.com/CommunityToolkit/Maui/pull/1252
     - (Gerald) Implement AppThemeColor and AppThemeResource https://github.com/CommunityToolkit/Maui/pull/1264
+    - (Brandon) Add Popup.CloseAsync() https://github.com/CommunityToolkit/Maui/pull/1223
   - Discussions
     - (Gerald) App AppTheme Color https://github.com/CommunityToolkit/Maui/discussions/1261
 - CommunityToolkit.Maui.Markup
