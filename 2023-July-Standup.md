@@ -9,7 +9,7 @@
 - Announcements
   - (Gerald) CommunityToolkit.Maui.Maps
   - (Brandon) Core Maintainer Elections https://github.com/CommunityToolkit/Maui/wiki/Yearly-Elections
-  - (Jay) Tizen Announcements
+  - (Jay) [Tizen Announcements](https://github.com/JoonghyunCho/CommunityToolkit.Maui/wiki/5-Mins-of-Tizen,-July-2023-Standup)
 - CommunityToolkit.Maui
   - Proposals
     - (Vlad) .NET Preview (Beta) NuGet https://github.com/CommunityToolkit/Maui/issues/1284
