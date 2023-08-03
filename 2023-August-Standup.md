@@ -13,13 +13,13 @@
   - Proposals
     - (None)
   - PRs
-    - C# Hot Reload https://github.com/CommunityToolkit/Maui.Markup/pull/232
+    - (None)
   - Discussions
 - CommunityToolkit.Maui.Markup
   - Proposals
     - (None)
   - PRs
-    - (None)
+    - C# Hot Reload https://github.com/CommunityToolkit/Maui.Markup/pull/232
   - Discussions
     - (None)
 - Community Q+A
