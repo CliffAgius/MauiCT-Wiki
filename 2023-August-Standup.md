@@ -13,7 +13,7 @@
   - Proposals
     - (None)
   - PRs
-    - (None)
+    - C# Hot Reload https://github.com/CommunityToolkit/Maui.Markup/pull/232
   - Discussions
 - CommunityToolkit.Maui.Markup
   - Proposals
