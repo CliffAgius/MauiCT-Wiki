@@ -5,6 +5,7 @@
 ## Agenda
 
 - (Gerald) Welcome / Intro
+- (Jay) What's New in Tizen
 - CommunityToolkit.Maui
   - Proposals
     - (Brandon) MediaElement Does Not Play Audio when 'Silent mode' is switch on in iOS: https://github.com/CommunityToolkit/Maui/issues/1358
