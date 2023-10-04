@@ -7,7 +7,7 @@
 
 - (Gerald) Welcome / Intro
 - Announcements
-  - (Brandon) Introduce New Core Maintainers!
+  - (Brandon) CommunityToolkit.Maui.Markup v3.3.0 https://github.com/CommunityToolkit/Maui.Markup/releases/tag/3.3.0
 - CommunityToolkit.Maui
   - Proposals
     - (None)
