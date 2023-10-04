@@ -15,3 +15,4 @@ Subscribe to the [.NET Foundation YouTube Channel](https://www.youtube.com/c/NET
 * [2023 July](https://github.com/CommunityToolkit/Maui/wiki/2023-July-Standup)
 * [2023 August](https://github.com/CommunityToolkit/Maui/wiki/2023-August-Standup)
 * [2023 September](https://github.com/CommunityToolkit/Maui/wiki/2023-September-Standup)
+* [2023 October](https://github.com/CommunityToolkit/Maui/wiki/2023-October-Standup)
