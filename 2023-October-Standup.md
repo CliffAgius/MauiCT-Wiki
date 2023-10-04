@@ -18,7 +18,7 @@
   - Proposals
     - (None)
   - PRs
-    - C# Hot Reload https://github.com/CommunityToolkit/Maui.Markup/pull/232
+    - (None)
   - Discussions
     - 'Label' does not contain a definition for 'TextTop' https://github.com/CommunityToolkit/Maui.Markup/discussions/248
 - Community Q+A
