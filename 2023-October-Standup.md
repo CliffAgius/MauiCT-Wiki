@@ -12,7 +12,7 @@
   - Proposals
     - (None)
   - PRs
-    - (Shaun) `PopupService` https://github.com/CommunityToolkit/Maui/pull/1165
+    - 
   - Discussions
 - CommunityToolkit.Maui.Markup
   - Proposals
