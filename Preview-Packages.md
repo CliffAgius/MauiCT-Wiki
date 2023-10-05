@@ -34,15 +34,15 @@ To find the package for the latest successful build of a PR you are interested i
 
 Expanding this by clicking the `Show all checks` on the right side will show you all the completed check that were made using the code from this PR.  You can then select the 'Details' link to be taken to the Azure Pipeline where the PR was built and tested.
 
-![Expanded PR Checks with Build Number](/images/Preview-Packages-PR-Checks.png)
+![Expanded PR Checks with Build Number](images/Preview-Packages-PR-Checks.png)
 
 Click the link in Release -> Artifacts
 
-![Link to Release Artifacts](/images/ReleaseArtifacts.png)
+![Link to Release Artifacts](images/ReleaseArtifacts.png)
 
-![Click the link to the Published Files](/images/PublishedFiles.png)
+![Click the link to the Published Files](images/PublishedFiles.png)
 
-![Download Artifacts](/images/DownloadArtifacts.png)
+![Download Artifacts](images/DownloadArtifacts.png)
 
 To install the package first you have to unzip into a known location and then you can use the 'Package Manager Console' command:
 
